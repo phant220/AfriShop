@@ -77,11 +77,12 @@ h1 {
 
 .products-grid {
   display: flex;
+  flex-wrap: wrap;
   gap: 24px;
 }
 
 .product-card {
-  flex: 1;
+  flex: 1 1 260px;
   background-color: #ffffff;
   border: 1px solid #e5e2d9;
   border-radius: 8px;
