@@ -125,3 +125,21 @@ h1 {
   color: #214e34;
   margin: 0;
 }
+.contact-section {
+  text-align: center;
+  padding: 36px 24px;
+  background-color: #f3f0e6;
+}
+
+.contact-section h2 {
+  margin-top: 0;
+  color: #214e34;
+}
+
+.site-footer {
+  background-color: #214e34;
+  color: #ffffff;
+  text-align: center;
+  padding: 16px 24px;
+  font-size: 0.9rem;
+}
